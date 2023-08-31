@@ -369,6 +369,11 @@ h6 {
   color: #45505b;
 }
 
+.pronouns {
+  font-size: 24px;
+  font-weight: 200;
+}
+
 #hero p {
   color: #45505b;
   margin: 15px 0 0 0;
